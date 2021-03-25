@@ -1,3 +1,7 @@
-# Welcome to my blog
+# Hello! I'm Matt!
 
-I'm glad you are here. I plan to talk about ...
+Welcome to my GitHub!
+
+My website and blog can be found here https://matthewsharris.com
+
+I work for https://bettervet.com
